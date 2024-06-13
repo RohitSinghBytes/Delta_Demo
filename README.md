@@ -5,4 +5,4 @@ This is a demo for Git and Github..
 Shradha Khapra
 
 # Student
-Rohit Singh
+Rohit Singh.
